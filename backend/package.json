@@ -24,7 +24,7 @@
     "start": "node src/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sayan Boro",
   "license": "ISC",
   "description": ""
 }
