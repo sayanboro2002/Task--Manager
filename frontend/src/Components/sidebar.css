@@ -1,7 +1,7 @@
 .sidebar {
     width: 250px; 
     min-height: 100vh;
-    background-color: #3F2305;
+    background: linear-gradient(180deg, #0f766e 0%, #115e59 50%, #134e4a 100%);
     padding: 20px;
     box-sizing: border-box;
     color: #fff;
@@ -20,15 +20,15 @@
 
 .sidebar-li {
     padding: 12px 15px;
-    border-bottom: 1px solid #DFD7BF;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15); 
     border-radius: 0.5rem;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .sidebar-li:hover {
-    background-color: #DFD7BF;
-    color: #3F2305;
+    background-color: #ffffff; 
+    color: #0f766e; 
 }
 
 .sidebar-nav-link {
@@ -77,7 +77,7 @@
     bottom: -4px;
     left: 50%;
     transform: translateX(-50%);
-    background-color: #2563eb;
+    background-color: #0d9488; 
     color: #ffffff;
     font-size: 9px;
     padding: 1px 6px;
@@ -97,12 +97,14 @@
 .user-email {
     margin: 0;
     font-size: 11px;
-    color: #DFD7BF;
+    color: #ccfbf1; 
     white-space: nowrap;
 }
+
 .sidebar-li:last-child:hover * {
-    color: #3F2305 !important;
+    color: #0f766e !important;
 }
+
 .sidebar-li:last-child * {
     color: #ffffff !important;
 }

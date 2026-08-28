@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate, Link } from 'react-router-dom';
 import "boxicons/css/boxicons.min.css"; 
-import AuthNavbar from '../Components/AuthNavbar'; 
+
 
 const Register = () => {
   const [formData, setFormData] = useState({ 
@@ -34,7 +34,6 @@ const Register = () => {
   return (
     <div className="main-auth-page">
       
-      <AuthNavbar />
 
       <div className="main-auth-container">
         <h2>Create Account</h2>
