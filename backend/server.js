@@ -1,17 +1,19 @@
+const dotenv = require("dotenv");
+dotenv.config(); 
+
 const express = require("express");
 const cors = require("cors");
 const session = require("express-session");
-const dotenv = require("dotenv");
 const path = require("path");
-const connectDB = require("./config/db"); 
+
+
+const connectDB = require("./src/config/db");
 
 // Routes Import
-const tasksRouter = require("./routes/tasks");
-const contactRouter = require("./routes/contact");
-const authRouter = require("./routes/auth");
-const teamRoutes = require("./routes/team");
-
-dotenv.config();
+const tasksRouter = require("./src/routes/tasks");
+const contactRouter = require("./src/routes/contact");
+const authRouter = require("./src/routes/auth");
+const teamRoutes = require("./src/routes/team");
 
 connectDB();
 
@@ -40,9 +42,8 @@ app.use("/api/contact", contactRouter);
 app.use("/api/auth", authRouter);
 app.use("/api/team", teamRoutes);
 
-// Static folder mapping for uploaded files (handles both paths safely)
-app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
-app.use('/src/uploads', express.static(path.join(__dirname, 'src/uploads')));
+// Static folder mapping for uploaded files
+app.use("/uploads", express.static(path.join(__dirname, "src/uploads")));
 
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
