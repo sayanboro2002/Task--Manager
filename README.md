@@ -49,3 +49,24 @@ Task--Manager/
         ├── Utils/            # Helper functions and utilities
         ├── App.js            # Root component with route configurations
         └── index.js          # React entry point
+
+
+## 📸 Project Screenshots
+
+### 1. Login Page
+![Login Page](./frontend/assets/login.png)
+
+### 2. Register Page
+![Register Page](./frontend/assets/register.png)
+
+### 3. Home / Dashboard Page
+![Dashboard](./frontend/assets/home.png)
+
+### 4. Create Task Page
+![Create Task](./frontend/assets/create-task.png)
+
+### 5. Task Report / Export Feature
+![Task Report](./frontend/assets/download%20report.png)
+
+### 6. Team Member View
+![Team Member](./frontend/assets/team%20member.png)        
