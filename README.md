@@ -52,25 +52,20 @@ Task--Manager/
         └── index.js          # React entry point
 
 
-### 📷 Project UI Screenshots:
+### 📷 Project UI Screenshots
 
-# 1. Register Page
-![Register Page](./frontend/src/assets/register.png)
+| Register Page | Login Page |
+| :---: | :---: |
+| ![Register Page](./Frontend/src/assets/register.png) | ![Login Page](./Frontend/src/assets/login.png) |
 
-# 2. Login Page
-![Login Page](./frontend/src/assets/login.png)
+| Home Page | Dashboard Page |
+| :---: | :---: |
+| ![Home Page](./Frontend/src/assets/home.png) | ![Dashboard Page](./Frontend/src/assets/dashboard.png) |
 
-# 3. Home Page
-![Home Page](./frontend/src/assets/home.png)
+| Create-Task Page | Team-Member View |
+| :---: | :---: |
+| ![Create-Task Page](./Frontend/src/assets/create-task.png) | ![Team-Member View](./Frontend/src/assets/team-member.png) |
 
-# 4. Dashboard Page
-![Dashboard Page](./frontend/src/assets/dashboard.png)
-
-# 5. Create-Task Page
-![Create-Task Page](./frontend/src/assets/create-task.png)
-
-# 6. Team-Member View
-![Team-Member View](./frontend/src/assets/team-member.png)
-
-# 7. Download-Report
-![Download-Report](./frontend/src/assets/download-report.png)
+| Download Report | |
+| :---: | :---: |
+| ![Download-Report](./Frontend/src/assets/download-report.png) | |
