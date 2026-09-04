@@ -55,22 +55,22 @@ Task--Manager/
 ### 📷 Project UI Screenshots:
 
 # 1. Register Page
-![Register Page](./frontend/assets/register.png)
+![Register Page](./frontend/src/assets/register.png)
 
 # 2. Login Page
-![Login Page](./frontend/assets/login.png)
+![Login Page](./frontend/src/assets/login.png)
 
 # 3. Home Page
-![Home Page](./frontend/assets/home.png)
+![Home Page](./frontend/src/assets/home.png)
 
 # 4. Dashboard Page
-![Dashboard Page](./frontend/assets/dashboard.png)
+![Dashboard Page](./frontend/src/assets/dashboard.png)
 
 # 5. Create-Task Page
-![Create-Task Page](./frontend/assets/create-task.png)
+![Create-Task Page](./frontend/src/assets/create-task.png)
 
 # 6. Team-Member View
-![Team-Member View](./frontend/assets/team-member.png)
+![Team-Member View](./frontend/src/assets/team-member.png)
 
 # 7. Download-Report
-![Download-Report](./frontend/assets/download-report.png)
+![Download-Report](./frontend/src/assets/download-report.png)
