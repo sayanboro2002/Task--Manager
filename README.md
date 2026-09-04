@@ -56,19 +56,19 @@ Task--Manager/
 ![Register Page](register.png)
 
 ### 2. Login Page
-![Login Page](https://github.com/sayanboro2002/collaborative-task-manager/raw/main/Screenshot%202026-09-04%20092759.png)
+![Login Page](login.png)
 
 ### 3. Home Page
-![Home Page](https://github.com/user-attachments/assets/6d19bc19-6887-4ca0-8b12-611e89b2cbbc)
+![Home Page](home.png)
 
 ### 4. Dashboard Page
-![Dashboard Page](https://github.com/user-attachments/assets/a2be09be-14fa-4918-afcd-223e3d7108b5)
+![Dashboard Page](dashboard.png)
 
 ### 5. Create-Task Page
-![Create-Task Page](https://github.com/user-attachments/assets/bd1f3f36-98d9-4db4-bba592eebf53)
+![Create-Task Page](create-task.png)
 
 ### 6. Team-Member View
-![Team-Member View](https://github.com/user-attachments/assets/482ab179-e933-48fd-8602-baaf4402ca88)
+![Team-Member View](member-view.png)
 
 ### 7. Download-Report
-![Download-Report](https://github.com/user-attachments/assets/cffb375b-d748-464e-901d-f9c641b688fb)
+![Download-Report](download-report.png)
