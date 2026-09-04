@@ -37,7 +37,7 @@ Task--Manager/
 │   ├── uploads/              # Uploaded media/files storage
 │   └── server.js             # Server entry point
 │
-└── Frontend/                 # React application
+└── frontend/                 # React application
     ├── public/               # Static assets
     └── src/
         |── assets/           # Project UI Screenshots
@@ -53,7 +53,9 @@ Task--Manager/
 
 
 
-    ### 📷 Project UI Screenshots
+   ---
+
+## 📷 Project UI Screenshots
 
 | Register Page | Login Page |
 | :---: | :---: |
@@ -69,4 +71,4 @@ Task--Manager/
 
 | Download Report | |
 | :---: | :---: |
-| ![Download-Report](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/download-report.png) | |    
+| ![Download-Report](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/download-report.png) | |  
