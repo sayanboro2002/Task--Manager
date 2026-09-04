@@ -52,22 +52,22 @@ Task--Manager/
 
 
 ### 1. Register Page
-![Register Page](assets/register.png)
+![Register Page](frontend/assets/register.png)
 
 ### 2. Login Page
-![Login Page](assets/login.png)
+![Login Page](frontend/assets/login.png)
 
 ### 3. Home Page
-![Home Page](assets/home.png)
+![Home Page](frontend/assets/home.png)
 
 ### 4. Dashboard Page
-![Dashboard Page](assets/dashboard.png)
+![Dashboard Page](frontend/assets/dashboard.png)
 
 ### 5. Create-Task Page
-![Create-Task Page](assets/create-task.png)
+![Create-Task Page](frontend/assets/create-task.png)
 
 ### 6. Team-Member View
-![Team-Member View](assets/team-member.png)
+![Team-Member View](frontend/assets/team-member.png)
 
 ### 7. Download-Report
-![Download-Report](assets/download-report.png)
+![Download-Report](frontend/assets/download-report.png)
