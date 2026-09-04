@@ -56,27 +56,21 @@ Task--Manager/
 
 ---
 
+---
+
 ## 📷 Project UI Screenshots
 
-* **Register & Login Pages:**
-  <p>
-    <img src="https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/register.png" width="48%" alt="Register Page" />
-    <img src="https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/login.png" width="48%" alt="Login Page" />
-  </p>
+### 1. Register & Login Pages
+![Register Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/register.png)
+![Login Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/login.png)
 
-* **Home & Dashboard Pages:**
-  <p>
-    <img src="https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/home.png" width="48%" alt="Home Page" />
-    <img src="https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/dashboard.png" width="48%" alt="Dashboard Page" />
-  </p>
+### 2. Home & Dashboard Pages
+![Home Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/home.png)
+![Dashboard Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/dashboard.png)
 
-* **Create-Task & Team-Member View:**
-  <p>
-    <img src="https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/create-task.png" width="48%" alt="Create Task" />
-    <img src="https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/team-member.png" width="48%" alt="Team Member" />
-  </p>
+### 3. Create-Task & Team-Member View
+![Create-Task Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/create-task.png)
+![Team-Member View](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/team-member.png)
 
-* **Download Report:**
-  <p>
-    <img src="https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/download-report.png" width="48%" alt="Download Report" />
-  </p>
+### 4. Download Report
+![Download Report](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/download-report.png)
