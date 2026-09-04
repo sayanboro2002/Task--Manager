@@ -53,7 +53,7 @@ Task--Manager/
 ## 📸 Project Screenshots
 
 ### 1. Register Page
-![Register Page]
+![Register Page] https://github.com/sayanboro2002/collaborative-task-manager/blob/main/Screenshot%202026-09-04%20092719.png
 
 ### 2. Login Page
 ![Login Page](https://github.com/user-attachments/assets/74f6041e-951a-4571-b41e-57e9afee03ad)
