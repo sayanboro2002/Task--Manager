@@ -50,8 +50,3 @@ Task--Manager/
         ├── App.js            # Root component with route configurations
         └── index.js          # React entry point
 
-
-### 7. Download-Report
-![Download-Report](https://github.com/user-attachments/assets/cffb375b-d748-464e-901d-f9c641b688fb)
-<img width="1920" height="1140" alt="Screenshot 2026-09-04 092719" src="https://github.com/user-attachments/assets/cffb375b-d748-464e-901d-f9c641b688fb" />
-  
