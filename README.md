@@ -37,7 +37,7 @@ Task--Manager/
 │   ├── uploads/              # Uploaded media/files storage
 │   └── server.js             # Server entry point
 │
-└── frontend/                 # React application
+└── Frontend/                 # React application
     ├── public/               # Static assets
     └── src/
         |── assets/           # Project UI Screenshots
@@ -52,20 +52,21 @@ Task--Manager/
         └── index.js          # React entry point
 
 
-### 📷 Project UI Screenshots
+
+    ### 📷 Project UI Screenshots
 
 | Register Page | Login Page |
 | :---: | :---: |
-| ![Register Page](./Frontend/src/assets/register.png) | ![Login Page](./Frontend/src/assets/login.png) |
+| ![Register Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/register.png) | ![Login Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/login.png) |
 
 | Home Page | Dashboard Page |
 | :---: | :---: |
-| ![Home Page](./Frontend/src/assets/home.png) | ![Dashboard Page](./Frontend/src/assets/dashboard.png) |
+| ![Home Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/home.png) | ![Dashboard Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/dashboard.png) |
 
 | Create-Task Page | Team-Member View |
 | :---: | :---: |
-| ![Create-Task Page](./Frontend/src/assets/create-task.png) | ![Team-Member View](./Frontend/src/assets/team-member.png) |
+| ![Create-Task Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/create-task.png) | ![Team-Member View](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/team-member.png) |
 
 | Download Report | |
 | :---: | :---: |
-| ![Download-Report](./Frontend/src/assets/download-report.png) | |
+| ![Download-Report](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/download-report.png) | |    
