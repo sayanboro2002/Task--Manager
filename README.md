@@ -50,25 +50,3 @@ Task--Manager/
         ├── App.js            # Root component with route configurations
         └── index.js          # React entry point
 
-## 📸 Project Screenshots
-
-### 1. Register Page
-![Register Page](register.png)
-
-### 2. Login Page
-![Login Page](login.png)
-
-### 3. Home Page
-![Home Page](home.png)
-
-### 4. Dashboard Page
-![Dashboard Page](dashboard.png)
-
-### 5. Create-Task Page
-![Create-Task Page](create-task.png)
-
-### 6. Team-Member View
-![Team-Member View](member-view.png)
-
-### 7. Download-Report
-![Download-Report](download-report.png)
