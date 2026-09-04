@@ -6,20 +6,20 @@ A full-stack web application designed and built for managing daily tasks, tracki
 
 ## 🚀 Key Features
 
-* **Secure Authentication:** User registration and login system with JWT (JSON Web Tokens) and secure password management.
-* **Task Management (CRUD):** Create, read, update, and delete tasks with custom priorities, statuses, start dates, and due dates.
-* **Interactive Checklists & Progress:** Sub-tasks management that automatically calculates and visualizes real-time completion percentages.
-* **Team Collaboration:** Assign tasks and coordinate with team members effectively.
-* **Modern UI/UX:** Built with React, React Router, custom hooks, layouts, and quick-action edit workflows.
+- **Secure Authentication:** User registration and login system with JWT (JSON Web Tokens) and secure password management.
+- **Task Management (CRUD):** Create, read, update, and delete tasks with custom priorities, statuses, start dates, and due dates.
+- **Interactive Checklists & Progress:** Sub-task management that automatically calculates and visualizes real-time completion percentages.
+- **Team Collaboration:** Assign tasks and coordinate with team members effectively.
+- **Modern UI/UX:** Built with React, React Router, custom hooks, layouts, and quick-action edit workflows.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React.js, React Router, Bootstrap, Boxicons, Axios
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB, Mongoose
-* **Authentication:** JWT, bcryptjs
+- **Frontend:** React.js, React Router, Bootstrap, Boxicons, Axios
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Authentication:** JWT, bcryptjs
 
 ---
 
@@ -28,49 +28,43 @@ A full-stack web application designed and built for managing daily tasks, tracki
 ```text
 Task--Manager/
 │
-├── backend/                  # Node.js & Express server
-│   ├── config/               # Database and environment configurations
-│   ├── controllers/          # Business logic and request handlers
-│   ├── middleware/           # Authentication and custom middlewares
-│   ├── models/               # Mongoose schemas (User, Task, etc.)
-│   ├── routes/               # API endpoints
-│   ├── uploads/              # Uploaded media/files storage
-│   └── server.js             # Server entry point
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── uploads/
+│   └── server.js
 │
-└── frontend/                 # React application
-    ├── public/               # Static assets
-    └── src/
-        |── assets/           # Project UI Screenshots
-        ├── auth/             # Authentication logic/views
-        ├── Components/       # Reusable UI components (TaskCard, Navbar, etc.)
-        ├── hooks/            # Custom React hooks
-        ├── layouts/          # Page layouts and wrappers
-        ├── Pages/            # Main application views (Home, Dashboard, Login, etc.)
-        ├── Routes/           # Route definitions and protected routing
-        ├── Utils/            # Helper functions and utilities
-        ├── App.js            # Root component with route configurations
-        └── index.js          # React entry point
+├── frontend/
+│   ├── public/
+│   └── src/
+│       ├── assets/
+│       ├── auth/
+│       ├── Components/
+│       ├── hooks/
+│       ├── layouts/
+│       ├── Pages/
+│       ├── Routes/
+│       ├── Utils/
+│       ├── App.js
+│       └── index.js
+│
+└── README.md
 
 
-   ---
 
-## 📷 Project UI Screenshots
+![Register Page](./frontend/src/assets/register.png)
 
-### 🔑 Authentication
-| Register Page | Login Page |
-| :---: | :---: |
-| ![Register Page](./frontend/src/assets/register.png) | ![Login Page](./frontend/src/assets/login.png) |
+![Login Page](./frontend/src/assets/login.png)
 
-### 📊 Task & Dashboard Management
-| Home Page | Dashboard Page |
-| :---: | :---: |
-| ![Home Page](./frontend/src/assets/home.png) | ![Dashboard Page](./frontend/src/assets/dashboard.png) |
+![Home Page](./frontend/src/assets/home.png)
 
-### 👥 Collaboration & Reports
-| Create-Task Page | Team-Member View |
-| :---: | :---: |
-| ![Create-Task Page](./frontend/src/assets/create-task.png) | ![Team-Member View](./frontend/src/assets/team-member.png) |
+![Dashboard Page](./frontend/src/assets/dashboard.png)
 
-| Download Report | |
-| :---: | :---: |
-| ![Download Report](./frontend/src/assets/download-report.png) | |
+![Create Task Page](./frontend/src/assets/create-task.png)
+
+![Team Member View](./frontend/src/assets/team-member.png)
+
+![Download Report](./frontend/src/assets/download-report.png)
