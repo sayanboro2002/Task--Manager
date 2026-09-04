@@ -66,7 +66,7 @@ Task--Manager/
 ![Create Task](./frontend/assets/create-task.png)
 
 ### 5. Task Report / Export Feature
-![Task Report](./frontend/assets/download%20report.png)
+![Task Report](./frontend/assets/download-report.png)
 
 ### 6. Team Member View
-![Team Member](./frontend/assets/team%20member.png)        
+![Team Member](./frontend/assets/team-member.png)        
