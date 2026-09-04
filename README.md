@@ -51,22 +51,23 @@ Task--Manager/
         └── index.js          # React entry point
 
 
-## 📸 Project Screenshots
+### 1. Register Page
+![Register Page](assets/register.png)
 
-### 1. Login Page
-![Login Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/login.png)
+### 2. Login Page
+![Login Page](assets/login.png)
 
-### 2. Register Page
-![Register Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/register.png)
+### 3. Home Page
+![Home Page](assets/home.png)
 
-### 3. Home / Dashboard Page
-![Dashboard](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/home.png)
+### 4. Dashboard Page
+![Dashboard Page](assets/dashboard.png)
 
-### 4. Create Task Page
-![Create Task](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/create-task.png)
+### 5. Create-Task Page
+![Create-Task Page](assets/create-task.png)
 
-### 5. Task Report / Export Feature
-![Task Report](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/download-report.png)
+### 6. Team-Member View
+![Team-Member View](assets/team-member.png)
 
-### 6. Team Member View
-![Team Member](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/team-member.png)      
+### 7. Download-Report
+![Download-Report](assets/download-report.png)
