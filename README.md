@@ -56,7 +56,7 @@ Task--Manager/
 ![Register Page] https://github.com/sayanboro2002/collaborative-task-manager/blob/main/Screenshot%202026-09-04%20092719.png
 
 ### 2. Login Page
-![Login Page](https://github.com/user-attachments/assets/74f6041e-951a-4571-b41e-57e9afee03ad)
+![Login Page]https://github.com/sayanboro2002/collaborative-task-manager/blob/main/Screenshot%202026-09-04%20092759.png
 
 ### 3. Home Page
 ![Home Page](https://github.com/user-attachments/assets/6d19bc19-6887-4ca0-8b12-611e89b2cbbc)
