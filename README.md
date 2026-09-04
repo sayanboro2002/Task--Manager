@@ -50,3 +50,24 @@ Task--Manager/
         ├── Utils/            # Helper functions and utilities
         ├── App.js            # Root component with route configurations
         └── index.js          # React entry point
+
+
+        ---
+
+## 📷 Project UI Screenshots
+
+| Register Page | Login Page |
+| :---: | :---: |
+| ![Register Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/register.png) | ![Login Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/login.png) |
+
+| Home Page | Dashboard Page |
+| :---: | :---: |
+| ![Home Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/home.png) | ![Dashboard Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/dashboard.png) |
+
+| Create-Task Page | Team-Member View |
+| :---: | :---: |
+| ![Create-Task Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/create-task.png) | ![Team-Member View](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/team-member.png) |
+
+| Download Report | |
+| :---: | :---: |
+| ![Download-Report](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/download-report.png) | |
