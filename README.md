@@ -54,19 +54,19 @@ Task--Manager/
 ## 📸 Project Screenshots
 
 ### 1. Login Page
-![Login Page](/frontend/assets/login.png)
+![Login Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/login.png)
 
 ### 2. Register Page
-![Register Page](/frontend/assets/register.png)
+![Register Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/register.png)
 
 ### 3. Home / Dashboard Page
-![Dashboard](/frontend/assets/home.png)
+![Dashboard](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/home.png)
 
 ### 4. Create Task Page
-![Create Task](/frontend/assets/create-task.png)
+![Create Task](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/create-task.png)
 
 ### 5. Task Report / Export Feature
-![Task Report](/frontend/assets/download-report.png)
+![Task Report](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/download-report.png)
 
 ### 6. Team Member View
-![Team Member](/frontend/assets/team-member.png)        
+![Team Member](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/team-member.png)      
