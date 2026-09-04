@@ -51,22 +51,26 @@ Task--Manager/
         └── index.js          # React entry point
 
 
-## 📸 Project Screenshots
+## Project Structure
 
-### 1. Login Page
-![Login Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/login.png)
+## 1. Register Page
+<img width="1920" height="1140" alt="Screenshot 2026-09-04 094332" src="https://github.com/user-attachments/assets/49fac2fa-0c10-4322-8120-b18eab0700af" />
 
-### 2. Register Page
-![Register Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/register.png)
+## 2. Login Page
+<img width="1920" height="1140" alt="Screenshot 2026-09-04 093024" src="https://github.com/user-attachments/assets/74f6041e-951a-4571-b41e-57e9afee03ad" />
 
-### 3. Home / Dashboard Page
-![Dashboard](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/home.png)
+## 3. Home Page
+<img width="1920" height="1140" alt="Screenshot 2026-09-04 092939" src="https://github.com/user-attachments/assets/6d19bc19-6887-4ca0-8b12-611e89b2cbbc" />
 
-### 4. Create Task Page
-![Create Task](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/create-task.png)
+## 4. Dashboard Page
+<img width="1920" height="1140" alt="Screenshot 2026-09-04 092922" src="https://github.com/user-attachments/assets/a2be09be-14fa-4918-afcd-223e3d7108b5" />
 
-### 5. Task Report / Export Feature
-![Task Report](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/download-report.png)
+##  5. Create-Task Page
+<img width="1920" height="1140" alt="Screenshot 2026-09-04 092852" src="https://github.com/user-attachments/assets/bd1f3f36-98d9-4db4-abfd-bba592eebf53" />
 
-### 6. Team Member View
-![Team Member](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/assets/team-member.png)      
+## 6. Team-Member View
+<img width="1920" height="1140" alt="Screenshot 2026-09-04 092759" src="https://github.com/user-attachments/assets/482ab179-e933-48fd-8602-baaf4402ca88" />
+
+## 7. Download-Report
+<img width="1920" height="1140" alt="Screenshot 2026-09-04 092719" src="https://github.com/user-attachments/assets/cffb375b-d748-464e-901d-f9c641b688fb" />
+  
