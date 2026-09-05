@@ -51,19 +51,16 @@ collaborative-task-manager/
 └── README.md
 
 
-## 📸 Application Screenshots Directory
 
-All application UI preview screenshots are stored under `./frontend/src/assets/`. Click any link below to view the image directly:
+## 📸 Application Screenshots
 
-- **User Authentication:**
-  - `Register Page`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/register.png)
-  - `Login Page`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/login.png)
+UI preview images are stored in `./frontend/src/assets/`:
 
-- **Core Views:**
-  - `Home Page`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/home.png)
-  - `Dashboard`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/dashboard.png)
-
-- **Features & Workflows:**
-  - `Create Task`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/create-task.png)
-  - `Team Member View`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/team-member.png)
-  - `Download Report`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/download-report.png)
+- **Register:** `./frontend/src/assets/register.png`
+- **Login:** `./frontend/src/assets/login.png`
+- **Home:** `./frontend/src/assets/home.png`
+- **Dashboard:** `./frontend/src/assets/dashboard.png`
+- **Create Task:** `./frontend/src/assets/create-task.png`
+- **Team Member:** `./frontend/src/assets/team-member.png`
+- **Download Report:** `./frontend/src/assets/download-report.png`
+- **Update & Delete Task:** `./frontend/src/assets/update-delete-task.png`   
