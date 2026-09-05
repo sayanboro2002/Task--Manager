@@ -51,16 +51,19 @@ collaborative-task-manager/
 └── README.md
 
 
-![Register Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/register.png)
+## 📸 Application Screenshots Directory
 
-![Login Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/login.png)
+All application UI preview screenshots are stored under `./frontend/src/assets/`. Click any link below to view the image directly:
 
-![Home Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/home.png)
+- **User Authentication:**
+  - `Register Page`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/register.png)
+  - `Login Page`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/login.png)
 
-![Dashboard Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/dashboard.png)
+- **Core Views:**
+  - `Home Page`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/home.png)
+  - `Dashboard`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/dashboard.png)
 
-![Create Task Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/create-task.png)
-
-![Team Member View](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/team-member.png)
-
-![Download Report](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/download-report.png)
+- **Features & Workflows:**
+  - `Create Task`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/create-task.png)
+  - `Team Member View`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/team-member.png)
+  - `Download Report`: [View Screenshot](https://github.com/sayanboro2002/collaborative-task-manager/blob/main/frontend/src/assets/download-report.png)
