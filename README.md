@@ -55,16 +55,16 @@ Task--Manager/
 
 
 
-![Register Page](./frontend/src/assets/register.png)
+![Register Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/register.png)
 
-![Login Page](./frontend/src/assets/login.png)
+![Login Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/login.png)
 
-![Home Page](./frontend/src/assets/home.png)
+![Home Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/home.png)
 
-![Dashboard Page](./frontend/src/assets/dashboard.png)
+![Dashboard Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/dashboard.png)
 
-![Create Task Page](./frontend/src/assets/create-task.png)
+![Create Task Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/create-task.png)
 
-![Team Member View](./frontend/src/assets/team-member.png)
+![Team Member View](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/team-member.png)
 
-![Download Report](./frontend/src/assets/download-report.png)
+![Download Report](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/download-report.png)
