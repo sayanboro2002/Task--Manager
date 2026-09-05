@@ -26,8 +26,7 @@ A full-stack web application designed and built for managing daily tasks, tracki
 ## 📂 Project Structure
 
 ```text
-Task--Manager/
-│
+collaborative-task-manager/
 ├── backend/
 │   ├── config/
 │   ├── controllers/
@@ -36,7 +35,6 @@ Task--Manager/
 │   ├── routes/
 │   ├── uploads/
 │   └── server.js
-│
 ├── frontend/
 │   ├── public/
 │   └── src/
@@ -50,9 +48,7 @@ Task--Manager/
 │       ├── Utils/
 │       ├── App.js
 │       └── index.js
-│
 └── README.md
-
 
 
 ![Register Page](https://raw.githubusercontent.com/sayanboro2002/collaborative-task-manager/main/frontend/src/assets/register.png)
